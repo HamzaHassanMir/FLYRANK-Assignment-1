@@ -19,3 +19,6 @@ python [main_script.py]           # or: open the notebook in Colab/Jupyter
 
 ## License
 MIT
+
+## Preview
+<img width="1920" height="952" alt="Screenshot (461)" src="https://github.com/user-attachments/assets/e9ff11b9-b85d-4335-b0f4-ceb486dece0d" />
